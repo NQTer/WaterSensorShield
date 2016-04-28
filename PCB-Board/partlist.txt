@@ -1,0 +1,43 @@
+Partlist
+
+Exported from SPWLMS.brd at 3/31/2016 9:46 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value             Package                Library             Position (inch)       Orientation
+
+ANT                        PAD-01                 discrete            (1.45 2.25)           R0
+C2       104               C2.5-4                 capacitor-wima      (1.25 2.3)            R90
+J1       BAT POWER         1X02                   SparkFun-Connectors (1.7 2.25)            R0
+J2       BUZZER            1X02                   SparkFun-Connectors (0.4 2.95)            R180
+J3       I2C-LCD           1X04_NO_SILK_ALL_ROUND SparkFun-Connectors (1.7 1.7)             R90
+J4       5-3.3v REG        1X03_LOCK              SparkFun-Connectors (1.4 1.15)            R270
+J5       ARDUINO_R3_SHIELD UNO_R3_SHIELD          SparkFun-Boards     (0 0.8)               R0
+J6       ESP8266-01        2X4                    SparkFun-Connectors (1.1 1.05)            R270
+J7       RFM/ESP SEL       1X02                   SparkFun-Connectors (1.2 2.6)             R0
+J9                         SCREWTERMINAL-5MM-2    SparkFun-Connectors (1.8 3)               R180
+J10                        SCREWTERMINAL-5MM-2    SparkFun-Connectors (1.35 3)              R180
+J11                        SCREWTERMINAL-5MM-2    SparkFun-Connectors (0.9 3)               R180
+LED1     1N4004            LED5MM                 led                 (0.45 2.55)           R0
+R1       10K               AXIAL-0.4              SparkFun-Passives   (0.4 2.1)             R90
+R2       10K               AXIAL-0.4              SparkFun-Passives   (0.9 2.55)            R270
+R3       10K               AXIAL-0.4              SparkFun-Passives   (0.75 2.55)           R270
+R4       10K               AXIAL-0.4              SparkFun-Passives   (1.6 2.45)            R90
+R5       4.7K              AXIAL-0.4              SparkFun-Passives   (0.85 2.05)           R270
+R6       4.7K              AXIAL-0.4              SparkFun-Passives   (0.55 1.95)           R270
+R7       4.7K              AXIAL-0.4              SparkFun-Passives   (0.3 2.1)             R90
+R8       10K               AXIAL-0.4              SparkFun-Passives   (0.65 1.95)           R270
+R9       220R              AXIAL-0.4              SparkFun-Passives   (0.6 2.55)            R270
+R10      1M                AXIAL-0.4              SparkFun-Passives   (1.8 2.55)            R90
+R11      470K              AXIAL-0.4              SparkFun-Passives   (1.7 2.55)            R90
+R12      220R              AXIAL-0.4              SparkFun-Passives   (0.3 2.65)            R270
+R13      4.7K              AXIAL-0.4              SparkFun-Passives   (1.8 1.4)             R90
+R14      4.7K              AXIAL-0.4              SparkFun-Passives   (1.65 1.4)            R90
+R15      1.0K              AXIAL-0.4              SparkFun-Passives   (0.35 1.4)            R270
+R16      2.2K              AXIAL-0.4              SparkFun-Passives   (0.55 1.4)            R270
+R17      10K               AXIAL-0.4              SparkFun-Passives   (1.05 2.55)           R90
+S1       RESET             TACTILE-PTH            SparkFun-Retired    (1.85 1)              R180
+T1       2N3904            TO92                   transistor          (0.8 1.6)             R90
+U1       RFM69HW           RFM69W-XXXS2           SparkFun-RF         (1.25 1.7)            R90
